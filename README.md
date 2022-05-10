@@ -23,7 +23,7 @@ My name is Muhammed Taşkıran. I live in Turkey.
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/Muhammed Taskiran-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtaskiran/)
+[![Linkedin Badge](https://img.shields.io/badge/MuhammedTaskiran-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtaskiran06/)
 
 ## Ask me about 💬
 
