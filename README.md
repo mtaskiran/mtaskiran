@@ -24,7 +24,9 @@ My name is Muhammed Taşkıran. I live in Turkey.
 You can find and get touch with me on these accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/MuhammedTaskiran-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtaskiran06/)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaskiran06&layout=compact&theme=light)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtaskiran&layout=compact&theme=light)
+
 ## Ask me about 💬
 
 I'd like to get in touch with the following topics
